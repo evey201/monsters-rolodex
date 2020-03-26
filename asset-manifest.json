@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//evey201.github.io/monsters-rolodex/static/css/main.ad2640ad.chunk.css",
+    "main.js": "/https//evey201.github.io/monsters-rolodex/static/js/main.442d61ec.chunk.js",
+    "main.js.map": "/https//evey201.github.io/monsters-rolodex/static/js/main.442d61ec.chunk.js.map",
+    "runtime-main.js": "/https//evey201.github.io/monsters-rolodex/static/js/runtime-main.285aaf00.js",
+    "runtime-main.js.map": "/https//evey201.github.io/monsters-rolodex/static/js/runtime-main.285aaf00.js.map",
+    "static/js/2.7aaef059.chunk.js": "/https//evey201.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/https//evey201.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/https//evey201.github.io/monsters-rolodex/index.html",
+    "precache-manifest.c38884b0eb9964af5db801c45f5ef8bd.js": "/https//evey201.github.io/monsters-rolodex/precache-manifest.c38884b0eb9964af5db801c45f5ef8bd.js",
+    "service-worker.js": "/https//evey201.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.ad2640ad.chunk.css.map": "/https//evey201.github.io/monsters-rolodex/static/css/main.ad2640ad.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/https//evey201.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.285aaf00.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.ad2640ad.chunk.css",
+    "static/js/main.442d61ec.chunk.js"
+  ]
+}
